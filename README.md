@@ -17,7 +17,7 @@
 
 <h5>Tech Stack Used: HTML, CSS, JavaScript</h5>
 
-<p>Using inspiration from the language app Duolingo, a collection of common phrases in the hospital are translated from english to spanish on click using an eventlistener in JavaScript. The translation in spanish are hidden until clincked. I hope to use a google translate API to improve this project so that more translations can be added.</p>
+<p>Using inspiration from the language app Duolingo, a collection of common phrases in the hospital are translated from english to spanish on click using an eventlistener in JavaScript. The translation in spanish are hidden until clincked. I hope to use a google translate API to improve this project so that more phrases with corresponding translations can be added.</p>
 
 <h5>Lessons Learned</h5>
 
