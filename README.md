@@ -18,7 +18,7 @@
 <h5>Tech Stack Used: HTML, CSS, JavaScript</h5>
 
 <p>Having worked on the frontline with adult population, lanuage barrrier has been one of the challenges caregivers and patients face and a barrier to client-centred care. I enjoy learning new languages and currently learning Spanish hence the inspiration for this app.
-Using inspiration from the language app Duolingo, a collection of common phrases in the hospital are translated from english to spanish on click using an eventlistener in JavaScript. The translation in spanish are hidden until clicked. I hope to use a google translate API to improve this project so that more phrases with corresponding translations can be added.</p>
+Using a similar idea from the language app Duolingo, a collection of common phrases in the hospital are translated from english to spanish on click using an eventlistener in JavaScript. The translation in spanish are hidden until clicked. I hope to use a google translate API to improve this project so that more phrases with corresponding translations can be added.</p>
 
 <h5>Lessons Learned</h5>
 
